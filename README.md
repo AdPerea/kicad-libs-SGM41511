@@ -2,7 +2,7 @@
 
 During PCB design for a personal engineering project, a symbol, footprint, and 3D model for the **SGM41511 battery charging IC** could not be found in KiCad’s standard libraries or third-party sources.
 
-As a result, a complete custom component was created based on the **TQFN-4×4-24L** package specifications from the official datasheet.
+As a result, a complete custom component was created based on the **TQFN-4×4-24L** package specifications from the [official datasheet](https://www.sg-micro.com/rect/assets/d5875e35-e037-4d49-9050-ad61cb59692c/SGM41511.pdf).
 
 ---
 
